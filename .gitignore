@@ -1,0 +1,15 @@
+# === OS ===
+.DS_Store
+
+# === Build output ===
+_site/
+.hugo_build.lock
+public/
+node_modules/
+
+# === IDEs ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
